@@ -1,4 +1,4 @@
-# app4
+# awsome places
 
 A new Flutter project.
 
